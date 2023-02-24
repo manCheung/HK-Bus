@@ -20,7 +20,7 @@
             "bundleIdentifier": "com.manc.hkbuseta",
             "buildNumber": "1.0.2",
             "config": {
-                "googleMapsApiKey": "AIzaSyAt6KFfMULEp9bZzKVdMj2jnk_a92JiZPY"
+                "googleMapsApiKey": ""
             }
         },
         "android": {
