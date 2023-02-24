@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "534767153956",
+        "project_id": "hk-bus-eta-1e52f",
+        "storage_bucket": "hk-bus-eta-1e52f.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:534767153956:android:4bc727bb356adef6ce39b1",
+                "android_client_info": {
+                    "package_name": "com.manc.hkbuseta"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "534767153956-m9i9jneqc5n56nghttil59cvtpo6vmcn.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyD8ciHVYnDjRqokoxAa-crkfERW_3loQqo"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "534767153956-m9i9jneqc5n56nghttil59cvtpo6vmcn.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}

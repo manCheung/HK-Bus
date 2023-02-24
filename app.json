@@ -1,0 +1,38 @@
+{
+    "expo": {
+        "name": "Hk Bus Eta",
+        "slug": "hk-bus",
+        "owner": "dosnivy",
+        "version": "1.0.1",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "splash": {
+            "image": "./assets/splash2.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "com.manc.hkbuseta",
+            "buildNumber": "1.0.2",
+            "config": {
+                "googleMapsApiKey": "AIzaSyAt6KFfMULEp9bZzKVdMj2jnk_a92JiZPY"
+            }
+        },
+        "android": {
+            "package": "com.manc.hkbuseta",
+            "versionCode": 2,
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/icon.png",
+                "backgroundColor": "#FFFFFF"
+            }
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        }
+    }
+}
